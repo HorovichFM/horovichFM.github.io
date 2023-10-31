@@ -1,0 +1,108 @@
+
+body {
+  color: #333;
+}
+a {
+  color: inherit;
+}
+
+.header {
+}
+.main {
+}
+.footer {
+}
+.header__nav.header-nav {
+}
+.main__section.intro {
+}
+.about {
+}
+.gallery {
+}
+.footer__menu.footer-menu {
+}
+.footer__homebutton.footer-homebutton {
+}
+.footer__contacts.footer-contacts {
+}
+.header-nav__logo.logo {
+}
+.header-nav__menu.dropdown-menu {
+}
+.intro__title.intro-title {
+}
+.intro__features.intro-features {
+}
+.about__photo {
+  border: 5px solid;
+}
+
+.about-photo {
+  width: 500px;
+}
+.about__descr.about-descr {
+}
+.about__skills.about-skills {
+}
+.gallery__item.gallery-item {
+}
+.footer-menu__btn {
+}
+.footer-menu__list.footer-menu-list {
+}
+.footer-homebutton__link {
+}
+.footer-contacts__link {
+}
+.logo__img {
+}
+.dropdown-menu__mobile-btn {
+}
+.dropdown-menu__items-wrap.menu-wrap {
+}
+.intro-title__name {
+  font-family: monserrat, sans-serif;
+  text-align: center;
+  padding: 50px;
+  font-weight: normal;
+}
+.intro-title__job {
+}
+.intro-features__item.intro-feature {
+}
+.about-photo__img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+.about-descr__title {
+}
+.about-descr__text {
+}
+.about-skills__text {
+}
+.about-skills__list-wrap.skills-wrap {
+}
+.gallery-item__figure.gallery-figure {
+}
+.gallery-photo__figure.gallery-photo-figure {
+}
+.footer-menu-list__item {
+}
+.menu-wrap__item.menu-link {
+}
+.intro-feature__icon.icon.is-big {
+}
+.intro-features__text {
+}
+.information__icon {
+}
+.skills-wrap__item {
+}
+.gallery-figure__img {
+}
+.gallery-figure__caption {
+}
+.icon__img.icon-img {
+}
